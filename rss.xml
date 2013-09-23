@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.blendapparel.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Blend Apparel</title>
+ <link>http://www.blendapparel.com</link>
+ <description>If you are going to buy just one shirt on the internet...
+
+Buy three from us.</description>
+ <language>en</language>
+<item>
+ <title>front page blurb</title>
+ <link>http://www.blendapparel.com/node/27</link>
+ <description>&lt;p&gt;If you are going to buy just one shirt on the internet... &lt;/p&gt;&lt;p&gt;Buy three from us!&lt;/p&gt;</description>
+ <pubDate>Fri, 25 May 2007 18:45:40 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">27 at http://www.blendapparel.com</guid>
+</item>
+</channel>
+</rss>
